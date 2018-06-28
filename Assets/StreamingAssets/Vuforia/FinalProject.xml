@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="blume_des_lebens_labyrinth_3_barr_eck" size="1.000000 1.070588" />
+    <ImageTarget name="sniper-rifle_318-11045" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
